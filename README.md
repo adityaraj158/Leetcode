@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/adityaraj158/Leetcode/tree/master/0001-two-sum) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/adityaraj158/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/adityaraj158/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,4 +35,12 @@
 |  |
 | ------- |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/adityaraj158/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+## Greedy
+|  |
+| ------- |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/adityaraj158/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/adityaraj158/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 <!---LeetCode Topics End-->
