@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityaraj158/Leetcode/tree/master/0001-two-sum) |
+| [0498-diagonal-traverse](https://github.com/adityaraj158/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/adityaraj158/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/adityaraj158/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/adityaraj158/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -56,9 +57,14 @@
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/adityaraj158/Leetcode/tree/master/0498-diagonal-traverse) |
 | [2479-meeting-rooms-iii](https://github.com/adityaraj158/Leetcode/tree/master/2479-meeting-rooms-iii) |
 ## Two Pointers
 |  |
 | ------- |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/adityaraj158/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+## Matrix
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/adityaraj158/Leetcode/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
