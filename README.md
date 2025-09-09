@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityaraj158/Leetcode/tree/master/0001-two-sum) |
+| [0204-count-primes](https://github.com/adityaraj158/Leetcode/tree/master/0204-count-primes) |
 | [0498-diagonal-traverse](https://github.com/adityaraj158/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/adityaraj158/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/adityaraj158/Leetcode/tree/master/2479-meeting-rooms-iii) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adityaraj158/Leetcode/tree/master/0002-add-two-numbers) |
+| [0204-count-primes](https://github.com/adityaraj158/Leetcode/tree/master/0204-count-primes) |
 ## Recursion
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/adityaraj158/Leetcode/tree/master/0204-count-primes) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/adityaraj158/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -67,4 +70,8 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/adityaraj158/Leetcode/tree/master/0498-diagonal-traverse) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/adityaraj158/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
