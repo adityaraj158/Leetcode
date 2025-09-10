@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityaraj158/Leetcode/tree/master/0001-two-sum) |
+| [0152-maximum-product-subarray](https://github.com/adityaraj158/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/adityaraj158/Leetcode/tree/master/0204-count-primes) |
 | [0498-diagonal-traverse](https://github.com/adityaraj158/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/adityaraj158/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -36,6 +37,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/adityaraj158/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/adityaraj158/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Sorting
 |  |
