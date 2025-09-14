@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/adityaraj158/Leetcode/tree/master/0001-two-sum) |
 | [0152-maximum-product-subarray](https://github.com/adityaraj158/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/adityaraj158/Leetcode/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/adityaraj158/Leetcode/tree/master/0268-missing-number) |
 | [0498-diagonal-traverse](https://github.com/adityaraj158/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/adityaraj158/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/adityaraj158/Leetcode/tree/master/2479-meeting-rooms-iii) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityaraj158/Leetcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/adityaraj158/Leetcode/tree/master/0268-missing-number) |
 | [2479-meeting-rooms-iii](https://github.com/adityaraj158/Leetcode/tree/master/2479-meeting-rooms-iii) |
 ## Linked List
 |  |
@@ -26,6 +28,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/adityaraj158/Leetcode/tree/master/0002-add-two-numbers) |
 | [0204-count-primes](https://github.com/adityaraj158/Leetcode/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/adityaraj158/Leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -33,6 +36,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/adityaraj158/Leetcode/tree/master/0268-missing-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/adityaraj158/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Dynamic Programming
 |  |
@@ -42,6 +46,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/adityaraj158/Leetcode/tree/master/0268-missing-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/adityaraj158/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/adityaraj158/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/adityaraj158/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -76,4 +81,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/adityaraj158/Leetcode/tree/master/0204-count-primes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/adityaraj158/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
