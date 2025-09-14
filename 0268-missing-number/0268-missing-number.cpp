@@ -1,14 +1,16 @@
 class Solution {
 public:
     int missingNumber(vector<int>& arr) {
-        long long n = arr.size();  // size of array
-        long long expectedSum = (n * (n + 1)) / 2;  // sum of 0...n
-        long long actualSum = 0;
+        int n = arr.size();
+        int xorVal = 0;
 
         for (int i = 0; i < n; i++) {
-            actualSum += arr[i];
+            xorVal ^= arr[i];   // XOR with array element
+            xorVal ^= i;        // XOR with index
         }
 
-        return expectedSum - actualSum;  
+        xorVal ^= n;  // XOR with last number (n)
+
+        return xorVal;
     }
 };
