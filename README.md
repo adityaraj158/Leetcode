@@ -19,6 +19,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/adityaraj158/Leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/adityaraj158/Leetcode/tree/master/0268-missing-number) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/adityaraj158/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2479-meeting-rooms-iii](https://github.com/adityaraj158/Leetcode/tree/master/2479-meeting-rooms-iii) |
 ## Linked List
 |  |
@@ -86,4 +87,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/adityaraj158/Leetcode/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/adityaraj158/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
